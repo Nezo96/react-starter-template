@@ -1,4 +1,4 @@
-#Minimized starter template for creat js | Free to use
+# Minimized starter template for creat js | Free to use
 
 ## Getting Started with Create React App
 
